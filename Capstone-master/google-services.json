@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "545248968537",
+    "project_id": "biotracker-a9934",
+    "storage_bucket": "biotracker-a9934.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:545248968537:android:36fabfe3a913842c375648",
+        "android_client_info": {
+          "package_name": "com.capstone.biotracker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "545248968537-oneaf6b8kdldbkm0t0br62unnqc1jiu8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAbkOZUauM5X2Csmv4R6xbUBu9VHDB0p0s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "545248968537-oneaf6b8kdldbkm0t0br62unnqc1jiu8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
